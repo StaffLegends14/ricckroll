@@ -9,8 +9,8 @@ var anl = -PI/4
 
 
 function preload() {
-  backgroundImg = loadImage("./assets/background.gif");
-  towerImage = loadImage("./assets/tower.png");
+  backgroundImg = loadImage("background.gif");
+  towerImage = loadImage("tower.png");
 
 }
 
